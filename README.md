@@ -6,6 +6,10 @@
  <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/alexanderkosyakov/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  <a href="@AlexanderKosyakov">
+  <img src="https://github.com/badges/shields/blob/master/logo/telegram.svg" title="Telegramm" **alt="Git" width="30" height="30"/> 
+       
+       
 </div>
 <div id="cs" align="center">
 <img src="https://komarev.com/ghpvc/?username=gOweRkrd""/>
@@ -21,9 +25,7 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
                                                                                                      
   :telescope:           I am currently looking for a job/internship.
 
- :zap: In my free time I do sports and read technical literature.
-
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderkosyakov/)   
+ :zap: In my free time I do sports and read technical literature.  
  </div>
 :hammer_and_wrench: Languages and Tools :
                                                                                                      
