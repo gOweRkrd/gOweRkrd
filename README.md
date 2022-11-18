@@ -6,7 +6,7 @@
  <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/alexanderkosyakov/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  <a href="@AlexanderKosyakov">
+  <a href="https://t.me/AlexanderKosyakov">
   <img src="https://github.com/badges/shields/blob/master/logo/telegram.svg" title="Telegramm" **alt="Git" width="30" height="30"/> 
        
        
