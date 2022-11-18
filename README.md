@@ -27,7 +27,10 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
  :zap: In my free time I do sports and read technical literature.  
  <div align="left">
-:hammer_and_wrench: Languages and Tools :
+                  
+---
+
+### :hammer_and_wrench: Languages and Tools :
               
  <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Git" **alt="Git" width="30" height="30"/>                      <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg    " title="Git" **alt="Git" width="30" height="30"/>              <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg " title="Git" **alt="Git" width="30" height="30"/>                                                        
