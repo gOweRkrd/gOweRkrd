@@ -23,7 +23,7 @@
    :man_technologist: About Me :                                                                                 
 I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
                                                                                                      
-  :telescope:           I am currently looking for a job/internship.
+  :telescope:           I am currently looking for a job.
 
  :zap: In my free time I do sports and read technical literature.  
  <div align="left">
