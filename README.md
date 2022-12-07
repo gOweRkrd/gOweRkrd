@@ -8,13 +8,9 @@
  <a href="https://www.linkedin.com/in/alexanderkosyakov/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   <a href="https://t.me/AlexanderKosyakov">
-  <img src="https://github.com/badges/shields/blob/master/logo/telegram.svg" title="Telegramm" **alt="Git" width="30" height="30"/> 
-       
-       
+  <img src="https://github.com/badges/shields/blob/master/logo/telegram.svg" title="Telegramm" **alt="Git" width="30" height="30"/>         
 </div>
 <div id="cs" align="center">
-<img src="https://komarev.com/ghpvc/?username=gOweRkrd""/>
-<img>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
