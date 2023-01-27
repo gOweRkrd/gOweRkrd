@@ -37,6 +37,9 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Git" **alt="Git" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg " title="Git" **alt="Git" width="40" height="40"/> 
       <div>   
+            
+            
+<img src="https://github-readme-stats.vercel.app/api?username=gOwERkrd&include_all_commits=true&count_private=tru&bg_color=10,2c2c36,5271FF&title_color=fff&text_color=fff"><br>
        
        
 <!-- BLOG-POST-LIST:START -->
