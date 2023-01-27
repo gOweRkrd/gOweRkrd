@@ -1,8 +1,4 @@
-  <h1>
-  Hi, I'm Alexander
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
+      
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="185"/>
       
@@ -16,6 +12,9 @@
 </div>
 <div id="cs" align="center">
 <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <img>         
   <div align="centre">
    :man_technologist: About Me :                                                                                 
@@ -43,6 +42,4 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->                                                                                                                                    
                                                                                                               
-                                                                                                                                                                                             
-         
-                                                                                                    
+                          
